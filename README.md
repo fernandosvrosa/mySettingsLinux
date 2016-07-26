@@ -1,1 +1,2 @@
 # mySettingsLinux
+Minhas configurações linux. 
